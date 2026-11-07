@@ -1,0 +1,10 @@
+Astral Visuals 1.12.10
+
+55 visible modules across Player, World, Skies, Weather and Interface.
+35 client themes.
+Fixed shader binding names so glass panels and controls render correctly.
+Restored the Target control beside the preview without a standalone Target ESP card.
+Removed the main-menu Astral button. Added a direct Right Shift key check.
+Compact package removes inactive audio assets and keeps Target textures.
+
+Minecraft Java 1.21.11, Fabric Loader, Fabric API, Java 21. Sodium optional.
